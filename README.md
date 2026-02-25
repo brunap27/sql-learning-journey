@@ -14,3 +14,7 @@ durante minha transição para a área de tecnologia.
 
 ## 🎯 Objetivo
 Construir base em SQL para atuar com QA / Análise de Sistemas.
+
+## 📂 Exercícios
+
+- Lesson 01 — SELECT básico e filtros WHERE
