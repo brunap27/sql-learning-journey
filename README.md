@@ -18,3 +18,6 @@ Construir base em SQL para atuar com QA / Análise de Sistemas.
 ## 📂 Exercícios
 
 - Lesson 01 — SELECT básico e filtros WHERE
+
+- ## Projetos práticos
+- Consultas SQL simulando problemas reais
